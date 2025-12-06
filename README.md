@@ -9,7 +9,7 @@ This repository contains a complete Proof of Concept (PoC) for the hospitality s
 | [🎓 Workshop Guide](./WORKSHOP.md) | Step-by-step workshop for building AI agents with LangChain |
 | [🔧 Synthetic Data Generator](./HOWTO_generate_synthetic_data.md) | How to generate synthetic hotel and booking data |
 | [🤖 AI Agents API](./ai_agents_hospitality-api/README.md) | WebSocket API for AI agent interactions |
-| [🗄️ Bookings Database](./bookings-db/READMEreadme.md) | PostgreSQL database and data loader |
+| [🗄️ Bookings Database](./bookings-db/README.md) | PostgreSQL database and data loader |
 
 ## 🚀 Quick Start - Launch Application
 
